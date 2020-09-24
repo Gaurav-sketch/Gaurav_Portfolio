@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Gaurav Kumar</title>
+    <link>https://Gaurav-sketch.github.io/Gaurav_Portfolio/</link>
+    <description>Recent content in Portfolio on Gaurav Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://Gaurav-sketch.github.io/Gaurav_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Bank Note Authentication</title>
+      <link>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 21 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-1/</guid>
+      <description>Took the dataset from the UCI Machine Learning Repository.Analyzed the Data. Used Scikit-learn library. Split the Data into a Train and test. Used Random Forest Classifier to create the ML model to classify the note as Authentic or Non-Authentic. Thereafter, used Flask web-framework to build the web application and deployed the model using Flasgger. Also, used Streamlit to deploy the model. To make this more scalable, completed the deployment of this ML model pipeline using Docker and Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Credit Card Fraud Detection</title>
+      <link>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-2/</guid>
+      <description>Used Kaggle imbalanced dataset on Credit Card Fraud. Performed Feature Engineering and Feature selection methods on the dataset. Used libraries like Pandas , matplotlib ,sklearn,scipy, pylab, and seaborn to complete this project.Used unsupervised techniques like the Isolation Forest algorithm, Local outlier factor, and One-Class SVM method to detect the frauds. It was found that the Isolation Forest model performed well with an accuracy of 99.74% as compared to other models.</description>
+    </item>
+    
+    <item>
+      <title>Project 3 : Analysis of Deep Solar Database</title>
+      <link>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://Gaurav-sketch.github.io/Gaurav_Portfolio/post/project-3/</guid>
+      <description>Analyzed solar installation data collected from satellite images. Used supervised classification methods like Logistic Regression, Decision Trees, Random Forests, Boosting, Bagging and SVM to predict the solar system coverage of a tile given the collection of predictive features. Applied various cross-validation algorithms and computed classifier performance measures to identify the best classifier. Fine-tuned the arguments of classifiers to maximize accuracy.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Gaurav-sketch.github.io/Gaurav_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Gaurav-sketch.github.io/Gaurav_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/gaurav-kumar-80153788/   GitHub: https://github.com/Gaurav-sketch   Kaggle: https://www.kaggle.com/sonikumar   Twitter: https://twitter.com/GAURAVK04176913    </description>
+    </item>
+    
+  </channel>
+</rss>
